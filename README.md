@@ -4,6 +4,14 @@ This repository stores IB Extended Maths teaching, practice, and reference mater
 
 ## Quick Links to Lesson Files
 
+### Functions Exam Practice Sets
+
+**Criterion A: 30-Question Tests**
+- [Variant A](Functions%20Exam/30Q-Crit.A/A/Markdown/Functions_Test_G10_IB_CriterionA.md) | [Variant B](Functions%20Exam/30Q-Crit.A/B/Markdown/Functions_Test_G10_IB_CriterionA_uniqueB.md) | [Variant C](Functions%20Exam/30Q-Crit.A/C/Functions_Test_G10_IB_CriterionA_uniqueC.md)
+
+**8-Question Practice Sets**
+- [Variant A](Functions%20Exam/8-Style/A/Markdown/Functions_PracticeStyle_8Q_45width.md) | [Variant B](Functions%20Exam/8-Style/B/Markdown/Functions_PracticeStyle_8Q_uniqueB.md) | [Variant C](Functions%20Exam/8-Style/C/Functions_PracticeStyle_8Q_uniqueC.md)
+
 ### Quadratic Functions Masterclass
 
 **Day 1 – Understanding Quadratics**
@@ -33,14 +41,6 @@ This repository stores IB Extended Maths teaching, practice, and reference mater
 **Course Schedule & Manifest**
 - [Schedule](Quadratic%20Functions/quadratic_masterclass_schedule.md)
 - [Manifest](Quadratic%20Functions/quadratic_masterclass_manifest.json)
-
-### Functions Exam Practice Sets
-
-**Criterion A: 30-Question Tests**
-- [Variant A](Functions%20Exam/30Q-Crit.A/A/Markdown/Functions_Test_G10_IB_CriterionA.md) | [Variant B](Functions%20Exam/30Q-Crit.A/B/Markdown/Functions_Test_G10_IB_CriterionA_uniqueB.md) | [Variant C](Functions%20Exam/30Q-Crit.A/C/Functions_Test_G10_IB_CriterionA_uniqueC.md)
-
-**8-Question Practice Sets**
-- [Variant A](Functions%20Exam/8-Style/A/Markdown/Functions_PracticeStyle_8Q_45width.md) | [Variant B](Functions%20Exam/8-Style/B/Markdown/Functions_PracticeStyle_8Q_uniqueB.md) | [Variant C](Functions%20Exam/8-Style/C/Functions_PracticeStyle_8Q_uniqueC.md)
 
 ## Suggested Workflow
 
