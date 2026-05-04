@@ -1,0 +1,26 @@
+{
+  "schedule_file": "quadratic_masterclass_schedule.md",
+  "lesson_files": [
+    "day1_lesson01.md",
+    "day1_lesson02.md",
+    "day1_lesson03.md",
+    "day1_lesson04.md",
+    "day1_lesson05.md",
+    "day1_lesson06.md",
+    "day1_lesson07.md",
+    "day1_lesson08.md",
+    "day1_lesson09.md",
+    "day1_lesson10.md",
+    "day2_lesson11.md",
+    "day2_lesson12.md",
+    "day2_lesson13.md",
+    "day2_lesson14.md",
+    "day2_lesson15.md",
+    "day2_lesson16.md",
+    "day2_lesson17.md",
+    "day2_lesson18.md",
+    "day2_lesson19.md",
+    "day2_lesson20.md"
+  ],
+  "total_lessons": 20
+}
