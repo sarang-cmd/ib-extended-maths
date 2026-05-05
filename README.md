@@ -2,6 +2,22 @@
 
 This repository stores IB Extended Maths teaching, practice, and reference material. The folders are organized by topic and by resource type so it is easy to find the right lesson, worksheet, or archive file.
 
+## Exam — Quadratic Functions Study Guides
+
+- [Exam A: Quadratic Functions Study Guide](Exam/A/Quadratic_Functions_Study_Guide.md) | [Answers](Exam/A/Answers_Quadratic_Functions_Study_Guide.md)
+- [Exam B: Quadratic Functions Study Guide](Exam/B/Quadratic_Functions_Study_Guide.md) | [Answers](Exam/B/Answers_Quadratic_Functions_Study_Guide.md)
+- [Exam C: Quadratic Functions Study Guide](Exam/C/Quadratic_Functions_Study_Guide.md) | [Answers](Exam/C/Answers_Quadratic_Functions_Study_Guide.md)
+- [Exam D: Quadratic Functions Study Guide](Exam/D/Quadratic_Functions_Study_Guide.md) | [Answers](Exam/D/Answers_Quadratic_Functions_Study_Guide.md)
+- [Exam E: Quadratic Functions Study Guide](Exam/E/Quadratic_Functions_Study_Guide.md) | [Answers](Exam/E/Answers_Quadratic_Functions_Study_Guide.md)
+
+### Functions Exam Practice Sets
+
+**Criterion A: 30-Question Tests**
+- [Variant A](Functions%20Exam/30Q-Crit.A/A/Markdown/Functions_Test_G10_IB_CriterionA.md) | [Variant B](Functions%20Exam/30Q-Crit.A/B/Markdown/Functions_Test_G10_IB_CriterionA_uniqueB.md) | [Variant C](Functions%20Exam/30Q-Crit.A/C/Functions_Test_G10_IB_CriterionA_uniqueC.md)
+
+**8-Question Practice Sets**
+- [Variant A](Functions%20Exam/8-Style/A/Markdown/Functions_PracticeStyle_8Q_45width.md) | [Variant B](Functions%20Exam/8-Style/B/Markdown/Functions_PracticeStyle_8Q_uniqueB.md) | [Variant C](Functions%20Exam/8-Style/C/Functions_PracticeStyle_8Q_uniqueC.md)
+
 ## Quick Links to Lesson Files
 
 ### Functions Exam Practice Sets
