@@ -108,3 +108,8 @@ Start with the topic folder that matches the unit you are teaching or revising, 
 | Quadratic Functions | A focused quadratic-functions unit with a manifest, schedule, and lesson-by-lesson materials. |
 | Quadratic Functions/Day 1 | Lesson files for the first day of the quadratic functions sequence. |
 | Quadratic Functions/Day 2 | Lesson files for the second day of the quadratic functions sequence. |
+
+<hr>
+
+### To add:
+- [ ] Parabolas
